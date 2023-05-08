@@ -68,9 +68,13 @@ Overall, the **vet-clinic-database** project offers a comprehensive solution for
 
 ### Key Features <a name="key-features"></a>
 
-- ***
-- ***
-- ***
+- **It provides a pre-defined schema**
+- **sample data, and example queries**
+- **enabling users to recreate the database**
+- **populate it with relevant information and**
+- **perform various operations on the data**
+- **vet_clinic database**
+- **animals table**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -78,7 +82,7 @@ Overall, the **vet-clinic-database** project offers a comprehensive solution for
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Live Demo Link is coming
+- coming soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -143,7 +147,7 @@ You can deploy this project using:
 
 - GitHub: [AbdusSattar-70](https://github.com/AbdusSattar-70)
 - Twitter: [Abdus Sattar](https://twitter.com/Abdus_Sattar70)
-- LinkedIn: [Abdus Sattar](https://www.linkedin.com/in/abdus-sattar-a41a26215/)
+- LinkedIn: [Abdus Sattar](https://www.linkedin.com/in/abdus-sattar70/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -151,9 +155,8 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] ***
-- [ ] ***
-- [ ] ***
+- add more data into the table
+- add more operation like delete, update
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
