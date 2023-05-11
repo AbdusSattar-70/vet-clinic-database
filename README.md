@@ -10,14 +10,10 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -78,14 +74,6 @@ Overall, the **vet-clinic-database** project offers a comprehensive solution for
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- coming soon
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -96,7 +84,7 @@ To get a local copy up and running, follow these steps.
 
 - In order to run this project you need:
 
-### It would be best if you had some familiarity with `SQL` and `PROSTGRESQL`.
+### It would be best if you had some familiarity with `SQL` and `POSTGRESQL`.
 
 - A Computer (MAC or PC)
 - code editor (VSCode,Atom etc...)
@@ -118,26 +106,6 @@ Install this project with:
 ```sh
   cd vet-clinic-database
 ```
-
-### Usage
-
-To run the project, execute the following command:
-
-- It will come
-
-### Run tests
-
-To run tests, run the following command:
-
-- It will come
-
-### Deployment
-
-You can deploy this project using:
-
-- It will come
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
