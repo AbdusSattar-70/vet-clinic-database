@@ -2,6 +2,12 @@
 
 <a name="readme-top"></a>
 
+<div align="center">
+
+  <img src="https://d1q6f0aelx0por.cloudfront.net/product-logos/library-postgres-logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+   <img src="./databaseDiagram.png" alt="diagram" width="500"  height="auto" />
+</div>
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
