@@ -127,7 +127,7 @@ Install this project with:
 
 - GitHub: [LoviMadaan](https://github.com/LoviMadaan)
 - Twitter: [@lovinarang](https://twitter.com/lovinarang)
-- LinkedIn: [LoviMadaan]https://www.linkedin.com/in/lovi-madaan-b27439175
+- LinkedIn: [LoviMadaan](https://www.linkedin.com/in/lovi-madaan-b27439175)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
