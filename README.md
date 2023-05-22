@@ -6,7 +6,7 @@
 
   <img src="https://d1q6f0aelx0por.cloudfront.net/product-logos/library-postgres-logo.png" alt="logo" width="140"  height="auto" />
   <br/>
-   <img src="./databaseDiagram.png" alt="diagram" width="500"  height="auto" />
+   <img src="./databaseDiagram.png" alt="diagram" height="auto" />
 </div>
 <!-- TABLE OF CONTENTS -->
 
@@ -122,6 +122,12 @@ Install this project with:
 - GitHub: [AbdusSattar-70](https://github.com/AbdusSattar-70)
 - Twitter: [Abdus Sattar](https://twitter.com/Abdus_Sattar70)
 - LinkedIn: [Abdus Sattar](https://www.linkedin.com/in/abdus-sattar70/)
+
+👤 **Lovi Madaan**
+
+- GitHub: [LoviMadaan](https://github.com/LoviMadaan)
+- Twitter: [@lovinarang](https://twitter.com/lovinarang)
+- LinkedIn: [LoviMadaan](https://www.linkedin.com/in/lovi-madaan-b27439175)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -141,5 +141,7 @@ AND ANIMALS.ID = VISITS.ANIMALS_ID
 GROUP BY VETS.NAME, MOST_VISITED_SPECIES
 ORDER BY AMOUNT_OF_VISITS DESC LIMIT 1;
 
+explain analyze SELECT COUNT(*) FROM visits where animals_id = 4;
 
-
+explain analyze SELECT * FROM visits where vets_id = 2;
+EXPLAIN ANALYZE SELECT * FROM owners where email = 'owner_18327@mail.com';
